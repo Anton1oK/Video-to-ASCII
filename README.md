@@ -7,7 +7,7 @@
 
 ## Installation
 ```bash
-pip install opencv-python numpy pillow brotli
+pip install opencv-python brotli
 ```
 ## License
 
